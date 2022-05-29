@@ -1,0 +1,12 @@
+body{
+  background-color: #000000;
+}
+.title{
+  font-size: 50px;
+  color: #fca311;
+}
+.Note-Box{
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+}
